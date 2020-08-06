@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    background-color: darkseagreen;
+}
+
+div {
+    width: 80%;
+    background-color: lightpink;
+    margin: 20px auto;
+    padding: 20px 10px;
+    box-shadow: 2px 2px 5px darkcyan;
+}
+
+img {
+    border: 2px solid white;
+}
